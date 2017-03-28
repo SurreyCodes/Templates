@@ -1,4 +1,4 @@
-# Template creation for quick use.
+# Template creation for Quick use.
 
 All these templates are designed to get you up and running quickly. And avoid the hurdle of making the regular 
 
