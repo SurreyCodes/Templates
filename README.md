@@ -36,7 +36,7 @@ No Special coding was harm during the making of these templates
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/Surrey-Code-Camp/Templates)/*To be updated later.*/ for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Surrey-Code-Camp/Templates/blob/master/Contributing) for details on our code of conduct, and the process for submitting pull requests to us.
 
 Basically, Contribute to make them better taking in consideration every angle that someone could need.
 
