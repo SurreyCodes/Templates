@@ -48,7 +48,7 @@ Basically, Contribute to make them better taking in consideration every angle th
 
 * **Luis Espinal** - *Initial work* - [SurreyCodeCamp](https://github.com/Surrey-Code-Camp) - [@lespinalrivera](https://twitter.com/lespinalrivera)
 
-See also the list of [contributors](https://github.com/Surrey-Code-Camp/Templates) /*To be updated Later.*/ who participated in this project.
+See also the list of [contributors](https://github.com/Surrey-Code-Camp/Templates/blob/master/Contributors) who participated in this project.
 
 *Make sure to add your name to the contributors list after doing a contribution.
 
