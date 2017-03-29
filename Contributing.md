@@ -3,7 +3,7 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-The interactions with all these templates are binded by our (Code of Conduct)[https://github.com/Surrey-Code-Camp/Code-of-Conduct]
+The interactions with all these templates are binded by our [Code of Conduct](https://github.com/Surrey-Code-Camp/Code-of-Conduct)
 Before raising any issue or proposing a change, make sure to read and agree with it.
 
 
